@@ -1,4 +1,4 @@
-# To-Do List App
+# Project 6: To-Do List App
 
 ## Overview
 
